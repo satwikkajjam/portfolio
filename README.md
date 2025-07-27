@@ -1,3 +1,3 @@
-# Sathwik's Portfolio
+#Portfolio
 ## Hello, I'm Sathwik
 
